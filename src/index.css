@@ -51,7 +51,10 @@ header nav a.active {
   background: var(--primary);
 }
 /* Page Content */
-
+main {
+  max-width: 1200px;
+  margin: 40px auto;
+}
 /* help layout */
 
 /* faq */
