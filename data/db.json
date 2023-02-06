@@ -1,0 +1,46 @@
+{
+  "careers": [
+    {
+      "id": 1,
+      "title": "Senior React Developer",
+      "salary": 5000000,
+      "location": "location, UK"
+    },
+    {
+      "id": 2,
+      "title": "Senior React Developer",
+      "salary": 5000000,
+      "location": "location, UK"
+    },
+    {
+      "id": 3,
+      "title": "Senior React Developer",
+      "salary": 5000000,
+      "location": "location, UK"
+    },
+    {
+      "id": 4,
+      "title": "Senior React Developer",
+      "salary": 5000000,
+      "location": "location, UK"
+    },
+    {
+      "id": 5,
+      "title": "Senior React Developer",
+      "salary": 5000000,
+      "location": "location, UK"
+    },
+    {
+      "id": 6,
+      "title": "Senior React Developer",
+      "salary": 5000000,
+      "location": "location, UK"
+    },
+    {
+      "id": 7,
+      "title": "Senior React Developer",
+      "salary": 5000000,
+      "location": "location, UK"
+    }
+  ]
+}
